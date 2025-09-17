@@ -1,0 +1,141 @@
+Rishi Chhabra - AI & Machine Learning Engineer based in New York, NY
+
+ABOUT:
+AI/ML-focused software engineer specializing in designing and deploying intelligent systems (LLMs, semantic search, vector databases) with cloud-native MLOps. Proven ability to build scalable, privacy-preserving solutions for web, mobile, and enterprise applications.
+
+EDUCATION:
+- Stevens Institute of Technology — M.S. in Machine Learning (Sep 2024 – Present)
+  Focus: Deep learning, computer vision, applied AI.
+- Central University of Haryana — B.Tech in Computer Science (Sep 2020 – May 2024)
+  Focus: Advanced algorithms, software engineering, scalable systems.
+
+EXPERIENCE:
+- Senior Flutter Developer at Incuwise (Feb 2024 – Aug 2024)
+  * Developed and launched 4 cross-platform mobile applications using Flutter and Node.js backends
+  * Led migration of server infrastructure from Linode to AWS, significantly improving scalability and reliability
+  * Enhanced user engagement and transaction security by integrating Firebase Cloud Messaging, Google Maps APIs, Stripe payment processing, and OAuth authentication
+  * Collaborated with QA and design teams in an Agile environment to deliver high-quality features on schedule
+
+FEATURED PROJECTS:
+1. End-to-End MLOps Pipeline - Fully automated ML workflow on AWS using Docker, Kubernetes, and Apache Airflow for CI/CD and orchestration with 60% reduction in deployment time.
+
+2. LLM Fine-Tuning Pipeline on AWS - AWS-based pipeline to fine-tune large language models on domain-specific data using SageMaker for distributed training on GPU instances with spot instances and MLflow tracking.
+
+3. Agentic RAG with Reasoning - RAG system combining retrieval with reasoning chains for improved factual accuracy using LangChain and Llama3.
+
+4. Multimodal AI Assistant - Chatbot processing text and images using multimodal models (CLIP, Vision-LLM) for scene descriptions and visual question answering.
+
+5. xAI Finance Agent - Autonomous agent leveraging financial datasets and LLM reasoning to provide market insights, portfolio optimization, and real-time risk assessment.
+
+6. Advanced AI Agents Framework - Framework for scalable multi-agent orchestration, supporting autonomous task planning, delegation, and tool integration using LangChain and CrewAI.
+
+AI AGENTS & MULTI-AGENT SYSTEMS:
+- xAI Finance Agent: Autonomous agent for market insights and portfolio optimization
+- OpenAI Research Agent: Agentic workflow for deep research and automated summarization
+- Web Scraping AI Agent: Intelligent scraper with structured data extraction
+- Advanced AI Agents: Framework for scalable multi-agent orchestration
+- AI Deep Research Agent: Automates literature review and knowledge synthesis
+- AI System Architect Agent: Auto-generates system design diagrams and architecture recommendations
+- AI Financial Coach Agent: Personalized financial assistant providing budgeting advice
+- AI Health & Fitness Agent: Creates adaptive workout routines and nutrition plans
+- AI Meeting Agent: Autonomous meeting assistant for note-taking and summarization
+- AI Self-Evolving Agent: Reinforcement-driven autonomous agent that adapts behavior
+- AI Finance Agent Team: Multi-agent system for financial analysis
+- AI Game Design Agent Team: Autonomous collaboration for procedural game design
+- AI Legal Agent Team: Agents for legal document parsing and compliance checking
+- AI Real Estate Agent Team: Agents for property search and investment evaluation
+- Multimodal Coding Agent Team: Agents for multimodal coding tasks and code review
+
+RETRIEVAL-AUGMENTED GENERATION (RAG):
+- Agentic RAG with Embedding Gemma: Custom RAG pipeline using Gemma embeddings
+- Agentic RAG with Reasoning: RAG system combining retrieval with reasoning chains
+- AI Blog Search (RAG): Semantic blog search engine with LLM-powered contextual answers
+- Autonomous RAG: Fully agent-driven RAG with query reformulation and contextual memory
+- Contextual AI RAG Agent: Context-aware retrieval assistant for enterprise knowledge bases
+- Corrective RAG (CRAG): Error-correcting retrieval pipeline ensuring higher factual consistency
+- Deepseek Local RAG Agent: Privacy-preserving local RAG pipeline optimized for on-device search
+- Gemini Agentic RAG: Multi-agent retrieval orchestration with Gemini models
+- Hybrid Search RAG: Combines dense embeddings and keyword-based search for enterprise-scale data
+- Llama 3.1 Local RAG: Local inference RAG optimized for small-scale deployment
+- Local Hybrid Search RAG: Combines hybrid vector + keyword search for offline knowledge bases
+- Local RAG Agent: Lightweight RAG assistant designed for personal/local data
+- RAG-as-a-Service: API-first retrieval augmented generation platform with multi-tenant support
+- RAG Agent with Cohere: RAG pipeline powered by Cohere embeddings
+- Basic RAG Chain: Simple LangChain RAG pipeline with embeddings and vector DB
+- RAG with Database Routing: Intelligent query routing across multiple databases
+- Vision RAG: Retrieval + visual grounding for multimodal Q&A
+- RAG Q&A System for Internal Docs: Enterprise-grade Q&A over internal documents
+- LLM-Powered Semantic Search Engine: Search platform using LLM embeddings and vector DBs
+
+LLM APPS WITH MEMORY & CHAT SYSTEMS:
+- Llama3 Stateful Chat: Persistent conversation agent powered by Llama3 with session memory
+- LLM App with Personalized Memory: Customizable LLM with long-term user memory for context retention
+- Local ChatGPT Clone with Memory: Privacy-first ChatGPT clone running locally with session-based memory
+- Multi-LLM Application with Shared Memory: Coordinated LLM system sharing context across multiple agents
+- Chat with PDF: RAG-powered app for querying PDF documents with GPT and Llama3
+- Chat with Research Papers (ArXiv): Specialized academic search and chat assistant
+
+FINE-TUNING & MODEL TRAINING:
+- Gemma 3 Fine-tuning: Domain-specific fine-tuning of Gemma LLM for specialized tasks
+- Llama 3.2 Fine-tuning: Efficient Llama fine-tuning pipeline with parameter-efficient methods
+- LLM Fine-Tuning Pipeline on AWS: Distributed fine-tuning pipeline with SageMaker, spot instances, and MLflow tracking
+
+COMPUTER VISION PROJECTS:
+- Multimodal AI Assistant: Vision + text chatbot for scene understanding and Q&A
+- Multimodal Facial Landmark Detection: 3D face modeling using dual-input ResNet50 (RGB+Depth)
+- Real-time Emotion Detection: MobileNetV3 with attention; classifies 7 emotions in real time
+- Advanced Facial Recognition: Secure face authentication with liveness detection
+- Real-time Fire Detection: CNN-based fire detection system from live video
+- Handwritten Digit Recognition: CNN on MNIST with 98%+ accuracy, optimized for mobile inference
+
+NLP / DOCUMENT INTELLIGENCE:
+- Automated Contract Summarizer: LLM + OCR pipeline to extract and summarize risk clauses
+- Personalized Learning Path Generator: Uses RL + knowledge graphs to design adaptive study plans
+- Document-to-Database Pipeline for Compliance: Auto-extracts structured data from regulatory filings
+- Hate Speech Detector: DistilBERT-based model for detecting offensive language
+- Fake News Detection: ML classifier to detect misinformation
+- Sentiment Analysis: Emotion detection from text data for media monitoring
+- Movie Review Sentiment Analysis: Naive Bayes + TF-IDF classifier with Flask UI
+- Phishing Website Detection: ML system to detect phishing URLs
+
+MLOPS, INFRA & CLOUD SYSTEMS:
+- End-to-End MLOps Pipeline: Automated ML pipeline with Docker, Kubernetes, and Airflow
+- Local Kubernetes LLM Inference: Edge inference for LLMs on local Kubernetes clusters
+- Serverless Contact Form: AWS Lambda-based serverless contact submission system
+- Image Upload & Compression: Lambda-based automatic image compression and storage pipeline
+
+DATA SCIENCE & VISUALIZATION:
+- 3D Road Network Visualization (California): Big data visualization of CA road networks in Google Earth
+- NYC Collision Analysis: Spatial data analytics on NYC taxi collisions
+- Titanic Survival Prediction: Binary classification on Titanic dataset
+- House Price Prediction: Regression model with interactive Streamlit dashboard
+
+SOFTWARE & MOBILE APPS:
+- I-Manager: Football team management app for players, matches, and analytics
+- Panda: AI-powered dating app with real-time matching and chat
+- Paradisseo: Travel app with smart itinerary recommendations and trip planning
+- Entrezz: Networking and business platform for professionals with real-time chat and profiles
+
+TECHNICAL SKILLS:
+Programming Languages: Python, Java, C++, JavaScript, TypeScript, Dart, SQL, R
+ML/AI Frameworks: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, NLTK, Hugging Face Transformers
+Web & Mobile: Flutter, React.js, Node.js (Express), GraphQL, Flask, Django, RESTful APIs
+Cloud & DevOps: AWS (Lambda, EC2, S3, DynamoDB, Rekognition, Bedrock, SageMaker), Microsoft Azure (AI services), Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins), MLflow, Apache Airflow
+Databases: PostgreSQL, MongoDB, MySQL, Firebase, Vector DBs (Pinecone, Milvus, FAISS)
+
+SERVICES:
+1. AI, Machine Learning & Computer Vision: End-to-end model development with TensorFlow/PyTorch for computer vision (facial recognition, emotion detection), LLM fine-tuning, multimodal AI systems, on-device inference (TFLite/Core ML), and document intelligence using LLMs + OCR for summarization and data extraction.
+
+2. Software Development: Full-stack web and mobile application engineering with React/Next.js, Flutter, Node.js/Express, Python/FastAPI/Django/Flask, and TypeScript—clean architectures, automated testing (Jest/PyTest), performance tuning, and accessibility best practices.
+
+3. Backend APIs & Cloud MLOps: Design and operate REST/GraphQL services, event-driven pipelines, model serving (FastAPI/TorchServe), MLOps with MLflow/Apache Airflow, feature stores, CI/CD for ML, monitoring/observability, and secure auth/analytics for production AI systems.
+
+4. Cloud & DevOps (AWS/Azure): AWS-first delivery: Serverless (Lambda, API Gateway, S3, DynamoDB, SageMaker, Bedrock), containers (Docker, ECS/EKS), IaC (CloudFormation/Terraform), CI/CD, Kubernetes, Azure AI services, and comprehensive monitoring for scalable, reliable AI systems.
+
+CERTIFICATIONS:
+- AWS Certified Developer — Associate: Validates proficiency in developing, deploying, and debugging cloud-based applications using AWS. Demonstrates knowledge of AWS services, SDKs, CI/CD, and security best practices.
+
+CONTACT:
+- LinkedIn: https://www.linkedin.com/in/rchhabra1/
+- Email: Rishi.chhabra@outlook.com
+- GitHub: https://github.com/rchhabra13
