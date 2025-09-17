@@ -228,3 +228,5 @@ For support and questions:
 ---
 
 **Note**: This chatbot is designed to showcase your portfolio and professional background. Keep your portfolio information up-to-date for the best user experience.
+
+<!-- Updated: 2025-09-16 -->
