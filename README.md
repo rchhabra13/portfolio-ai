@@ -30,8 +30,8 @@ An intelligent AI-powered chatbot designed to provide information about your por
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/portfolio-ai
+   git clone https://github.com/rchhabra13/portfolio-ai.git
+   cd portfolio-ai
    ```
 
 2. **Install dependencies**
